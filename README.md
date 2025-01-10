@@ -22,21 +22,21 @@ Federated learning (FL) is an efficient framework designed to facilitate collabo
 [71] H. Wang, L. Wang, and J. Shen, Logit calibration for non-IID and long-tailed data in federated learning, in Proc. IEEE Intl. Conf. Parallel Distrib. Process. Appl., Big Data Cloud Comput., Sustain. Comput. Commun., Social Comput. Netw. (ISPA/BDCloud/SocialCom/SustainCom), Dec. 2022, pp. 782–789.\
 [72] C. Chen, Y. Liu, X. Ma, and L. Lyu, Calfat: Calibrated federated adversarial training with label skewness, in Proc. Adv. Neural Inf. Process. Syst., vol. 35, 2022, pp. 3569–3581.\
 [73] X. Shang, Y. Lu, Y.-M. Cheung, and H. Wang, FEDIC: Federated learning on non-IID and long-tailed data via calibrated distillation, 2022, arXiv:2205.00172.\
-[74] D. Yan, J. Wang, Q. Huang, J. Huang, and X. Li, LTNI-FGML: Federated graph machine learning on long-tailed and non-IID data via logit calibration, in Proc. Int. Conf. Artif. Neural Netw., 2023, pp. 486–498.\
+[74] D. Yan, J. Wang, Q. Huang, J. Huang, and X. Li, LTNI-FGML: Federated graph machine learning on long-tailed and non-IID data via logit calibration, in Proc. Int. Conf. Artif. Neural Netw., 2023, pp. 486–498.
 
  - **Knowledge Assistance**\
 	 [75] Y. Zeng, L. Liu, L. Liu, L. Shen, S. Liu, and B. Wu, Global balanced experts for federated long-tailed learning, in Proc. IEEE/CVF Int. Conf. Comput. Vis. (ICCV), Oct. 2023, pp. 4815–4825.\
-	 [76] X. Shuai, Y. Shen, S. Jiang, Z. Zhao, Z. Yan, and G. Xing, BalanceFL: Addressing class imbalance in long-tail federated learning, in Proc. 21st ACM/IEEE Int. Conf. Inf. Process. Sens. Netw. (IPSN), Jul. 2022, pp. 271–284.\
+	 [76] X. Shuai, Y. Shen, S. Jiang, Z. Zhao, Z. Yan, and G. Xing, BalanceFL: Addressing class imbalance in long-tail federated learning, in Proc. 21st ACM/IEEE Int. Conf. Inf. Process. Sens. Netw. (IPSN), Jul. 2022, pp. 271–284.
  - **Network Architecture Design**\
 	 [26] X. Shang, Y. Lu, G. Huang, and H. Wang, Federated learning on heterogeneous and long-tailed data via classifier re-training with federated features, in Proc. 31st Int. Joint Conf. Artif. Intell., Jul. 2022, pp. 2218–2224.\
 	 [27] W. Yang, D. Chen, H. Zhou, F. Meng, J. Zhou, and X. Sun, Integrating local real data with global gradient prototypes for classifier re-balancing in federated long-tailed learning, 2023, arXiv:2301.10394.\
 	 [77] J. Wicaksana, Z. Yan, and K.-T. Cheng, FCA: Taming long-tailed federated medical image classification by classifier anchoring, 2023, arXiv:2305.00738.\
 	 [78] X. Li, S. Sun, M. Liu, J. Ren, X. Jiang, and T. He, Federated classification tasks in long-tailed data environments via classifier representation adjustment and calibration, Authorea Preprints, vol. 14, no. 8, pp. 1–16, 2023.\
-	 [79] Z. Xiao et al., Fed-GraB: Federated long-tailed learning with self-adjusting gradient balancer, 2023, arXiv:2310.07587.\
+	 [79] Z. Xiao et al., Fed-GraB: Federated long-tailed learning with self-adjusting gradient balancer, 2023, arXiv:2310.07587.
  
  - **Peraonlized FL**\
 	[80] Z. Chen, S. Liu, H. Wang, H. H. Yang, T. Q. S. Quek, and Z. Liu, Towards federated long-tailed learning, 2022, arXiv:2206.14988.\
-	[81] Y. Lu, P. Qian, G. Huang, and H. Wang, Personalized federated learning on long-tailed data via adversarial feature augmentation, in Proc. IEEE Int. Conf. Acoust., Speech Signal Process. (ICASSP), Jun. 2023, pp. 1–5.\
+	[81] Y. Lu, P. Qian, G. Huang, and H. Wang, Personalized federated learning on long-tailed data via adversarial feature augmentation, in Proc. IEEE Int. Conf. Acoust., Speech Signal Process. (ICASSP), Jun. 2023, pp. 1–5.
 ## Citation
     @article{guo2024addressing,
     title={Addressing Skewed Heterogeneity via Federated Prototype Rectification With Personalization},
