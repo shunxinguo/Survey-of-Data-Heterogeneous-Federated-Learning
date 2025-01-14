@@ -9,7 +9,7 @@ Federated learning (FL) is an efficient framework designed to facilitate collabo
 ![enter image description here](https://github.com/shunxinguo/Survey-of-Data-Heterogeneous-Federated-Learning/blob/main/Illustration%20of%20data%20heterogeneous%20federated%20learning.png)
  
  - [ ] The taxonomy of data heterogeneity of federated learning
-![The taxonomy of data heterogeneity of federated learning.](https://github.com/shunxinguo/Survey-of-Data-Heterogeneous-Federated-Learning/blob/main/A%20Taxonomy%20of%20Data%20Heterogeneous%20%20Federated%20learning.jpg)
+![The taxonomy of data heterogeneity of federated learning.](https://github.com/shunxinguo/Survey-of-Data-Heterogeneous-Federated-Learning/blob/main/A%20Taxonomy%20of%20Data%20Heterogeneous%20Federated%20learning.pdf)
 
  - **Class Re-balancing**\
 [64] T.-M. H. Hsu, H. Qi, and M. Brown, Federated visual classification with real-world data distribution, in Proc. 16th Eur. Conf. Comput. Vis., 2020, pp. 76–92.\
