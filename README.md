@@ -34,7 +34,7 @@ Federated learning (FL) is an efficient framework designed to facilitate collabo
 	 [78] X. Li, S. Sun, M. Liu, J. Ren, X. Jiang, and T. He, Federated classification tasks in long-tailed data environments via classifier representation adjustment and calibration, Authorea Preprints, vol. 14, no. 8, pp. 1–16, 2023.\
 	 [79] Z. Xiao et al., Fed-GraB: Federated long-tailed learning with self-adjusting gradient balancer, 2023, arXiv:2310.07587.
  
- - **Peraonlized FL**\
+ - **Personalized FL**\
 	[80] Z. Chen, S. Liu, H. Wang, H. H. Yang, T. Q. S. Quek, and Z. Liu, Towards federated long-tailed learning, 2022, arXiv:2206.14988.\
 	[81] Y. Lu, P. Qian, G. Huang, and H. Wang, Personalized federated learning on long-tailed data via adversarial feature augmentation, in Proc. IEEE Int. Conf. Acoust., Speech Signal Process. (ICASSP), Jun. 2023, pp. 1–5.
 ## Citation
